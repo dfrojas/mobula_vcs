@@ -8,7 +8,7 @@ This is one of my toy projects. It is a simple VCS (Version Control System) writ
 
 This program was written to learn the difference between several languages through the same program. Including:
 
-**Many programming fundamentals:** variable declaration and manipulation, screen output, keyboard input, loops, if statements, file input, file output, etc
+**Fundamentals:** variable declaration and manipulation, screen output, keyboard input, loops, if statements, file input, file output, etc
 
 **Specific programming language features:** dependency management, pattern matching, debuggers, unit testing, etc
 
