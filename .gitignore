@@ -1,3 +1,10 @@
+# Ruby
+/ruby/.bundle/*
+
+# C
+/c/build/*
+
+# General
 */.DS_Store
 /.DS_Store
-/ruby/.bundle/*
+/*/.mobula_config
