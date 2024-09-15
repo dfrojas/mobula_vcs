@@ -8,3 +8,6 @@
 */.DS_Store
 /.DS_Store
 /*/.mobula_config
+
+# .vscode
+.vscode/c_cpp_properties.json
